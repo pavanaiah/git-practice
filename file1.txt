@@ -1,2 +1,0 @@
- hi everyone
- hai everyone  today topic is automating the task using the bash file
